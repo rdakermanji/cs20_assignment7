@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Diet Coke Can",
+        "description": "16 oz Can of Diet Coke",
+        "price": "$1.49",
+        "category": "Drinks"
+    },
+
+    {
+        "name": "Coca Cola Can",
+        "description": "16 oz Can of Coca Cola",
+        "price": "$1.49",
+        "category": "Drinks"
+    },
+
+    {
+        "name": "Sprite Can",
+        "description": "16 oz Can of Sprite",
+        "price": "$1.49",
+        "category": "Drinks"
+    },
+    
+    {
+        "name": "Dr Pepper Can",
+        "description": "16 oz Can of Dr Pepper",
+        "price": "$1.49",
+        "category": "Drinks"
+    },
+
+    {
+        "name": "Cape Cod Chips",
+        "description": "2 oz bag of Original Sea Salt Cape Cod Kettle Cooked Potato Chips",
+        "price": "$1.89",
+        "category": ["Food", "Snacks"]
+    },
+
+    {
+        "name": "Cheetos",
+        "description": "2  1/2 oz bag of Crunchy Cheetos",
+        "price": "$1.89",
+        "category": ["Food", "Snacks"]
+    },
+
+    {
+        "name": "Lay's Classic Chips",
+        "description": "2 oz bag of Lay's Classic Salted Chips",
+        "price": "$1.89",
+        "category": ["Food", "Snacks"]
+    },
+
+    {
+        "name": "Lay's Salt and Vinegar Chips",
+        "description": "2 oz bag of Lay's Salt and Vinegar Chips",
+        "price": "$1.89",
+        "category": ["Food", "Snacks"]
+    },
+
+    {
+        "name": "Ham and Cheese Sandwich",
+        "description": "Sandwich of honey baked ham, American cheese, lettuce and tomato, all on two slices of toasted white bread",
+        "price": "$8.99",
+        "category": ["Food", "Sandwiches"]
+    },
+
+    {
+        "name": "Caprese Sandwich",
+        "description": "Mozzarella cheese with slices of tomato and a thin layer of pesto, layered on a Ciabatta roll, and grilled on a Panini press",
+        "price": "$9.99",
+        "category": ["Food", "Sandwiches"]
+    },
+
+    {
+        "name": "Italian Sub",
+        "description": "Salami, Capocollo, Mortadella, and Pepperoni with Provolone Cheese, shredded lettuce, diced tomato and onion, and hots, all on a Spuckie roll",
+        "price": "$11.99",
+        "category": ["Food", "Sandwiches"]
+    }
+]
