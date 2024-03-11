@@ -3,28 +3,28 @@
         "name": "Diet Coke Can",
         "description": "16 oz Can of Diet Coke",
         "price": "$1.49",
-        "category": "Drinks"
+        "category": ["Drinks"]
     },
 
     {
         "name": "Coca Cola Can",
         "description": "16 oz Can of Coca Cola",
         "price": "$1.49",
-        "category": "Drinks"
+        "category": ["Drinks"]
     },
 
     {
         "name": "Sprite Can",
         "description": "16 oz Can of Sprite",
         "price": "$1.49",
-        "category": "Drinks"
+        "category": ["Drinks"]
     },
     
     {
         "name": "Dr Pepper Can",
         "description": "16 oz Can of Dr Pepper",
         "price": "$1.49",
-        "category": "Drinks"
+        "category": ["Drinks"]
     },
 
     {
